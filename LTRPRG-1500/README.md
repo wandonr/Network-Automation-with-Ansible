@@ -9,5 +9,3 @@ Presenters Gowtham Tamilselvan, Muthuraja Ayyanar, & Yogi Raghunathan
 June 10, 2019
 
 Directory for Ansible lab
-
-
